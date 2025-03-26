@@ -1,0 +1,10 @@
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\bin\Debug\EnesAltindalProje.exe.config
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\bin\Debug\EnesAltindalProje.exe
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\bin\Debug\EnesAltindalProje.pdb
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.csproj.AssemblyReference.cache
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.Form1.resources
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.Properties.Resources.resources
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.csproj.GenerateResource.cache
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.exe
+C:\Users\Kerem\Documents\Projeler\Enes Proje\EnesAltindalProje\obj\Debug\EnesAltindalProje.pdb
